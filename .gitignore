@@ -1,2 +1,3 @@
 mnemonic
 ballot-contract/build/*
+ballot-app/node_modules/*
